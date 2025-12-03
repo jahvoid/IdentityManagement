@@ -5997,8 +5997,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "c:\\Users\\johnj\\Desktop\\PROG MATERIALS\\IdentityManagement\\IdentityManagement.Core\\IdentityManagement.Core.csproj": {
-              "projectPath": "c:\\Users\\johnj\\Desktop\\PROG MATERIALS\\IdentityManagement\\IdentityManagement.Core\\IdentityManagement.Core.csproj"
+            "C:\\Users\\johnj\\Desktop\\PROG MATERIALS\\IdentityManagement\\IdentityManagement.Core\\IdentityManagement.Core.csproj": {
+              "projectPath": "C:\\Users\\johnj\\Desktop\\PROG MATERIALS\\IdentityManagement\\IdentityManagement.Core\\IdentityManagement.Core.csproj"
             },
             "C:\\Users\\johnj\\Desktop\\PROG MATERIALS\\IdentityManagement\\IdentityManagement.Infrastructure\\IdentityManagement.Infrastructure.csproj": {
               "projectPath": "C:\\Users\\johnj\\Desktop\\PROG MATERIALS\\IdentityManagement\\IdentityManagement.Infrastructure\\IdentityManagement.Infrastructure.csproj"
