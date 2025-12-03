@@ -52,7 +52,7 @@ builder.Services.AddAuthentication(options =>
     ValidIssuer = jwtSettings["Issuer"],
     ValidAudience = jwtSettings["Audience"],
     IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(secretKey)),
-    ClockSkew = TimeSpan.Zero // Optional: removes default 5 min tolerance
+    ClockSkew = TimeSpan.Zero 
 };
 });
 

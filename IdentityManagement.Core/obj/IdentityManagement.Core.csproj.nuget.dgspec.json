@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\johnj\\Desktop\\PROG MATERIALS\\IdentityManagement\\IdentityManagement.Core\\IdentityManagement.Core.csproj": {}
+    "c:\\Users\\johnj\\Desktop\\PROG MATERIALS\\IdentityManagement\\IdentityManagement.Core\\IdentityManagement.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\johnj\\Desktop\\PROG MATERIALS\\IdentityManagement\\IdentityManagement.Core\\IdentityManagement.Core.csproj": {
+    "c:\\Users\\johnj\\Desktop\\PROG MATERIALS\\IdentityManagement\\IdentityManagement.Core\\IdentityManagement.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\johnj\\Desktop\\PROG MATERIALS\\IdentityManagement\\IdentityManagement.Core\\IdentityManagement.Core.csproj",
+        "projectUniqueName": "c:\\Users\\johnj\\Desktop\\PROG MATERIALS\\IdentityManagement\\IdentityManagement.Core\\IdentityManagement.Core.csproj",
         "projectName": "IdentityManagement.Core",
-        "projectPath": "C:\\Users\\johnj\\Desktop\\PROG MATERIALS\\IdentityManagement\\IdentityManagement.Core\\IdentityManagement.Core.csproj",
+        "projectPath": "c:\\Users\\johnj\\Desktop\\PROG MATERIALS\\IdentityManagement\\IdentityManagement.Core\\IdentityManagement.Core.csproj",
         "packagesPath": "C:\\Users\\johnj\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\johnj\\Desktop\\PROG MATERIALS\\IdentityManagement\\IdentityManagement.Core\\obj\\",
+        "outputPath": "c:\\Users\\johnj\\Desktop\\PROG MATERIALS\\IdentityManagement\\IdentityManagement.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

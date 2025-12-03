@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nhxnyxC4ILA=",
+  "dgSpecHash": "/j0KbXOdbVs=",
   "success": true,
-  "projectFilePath": "C:\\Users\\johnj\\Desktop\\PROG MATERIALS\\IdentityManagement\\IdentityManagement.Core\\IdentityManagement.Core.csproj",
+  "projectFilePath": "c:\\Users\\johnj\\Desktop\\PROG MATERIALS\\IdentityManagement\\IdentityManagement.Core\\IdentityManagement.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\johnj\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\10.0.0\\microsoft.aspnetcore.cryptography.internal.10.0.0.nupkg.sha512",
     "C:\\Users\\johnj\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\10.0.0\\microsoft.aspnetcore.cryptography.keyderivation.10.0.0.nupkg.sha512",
